@@ -1,25 +1,28 @@
-APIx Documentation
-==================
+APIx Manual & Documentation
+===========================
 
-The APIx documentations are maintain essentially using two sets of plain text files using
-`reStructuredText <http://docutils.sourceforge.net/rst.html>`_ parser and
+The APIx Manual and Documentation use `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ format/parser and the 
 `Sphinx <http://sphinx-doc.org/>`_ tool.
 
 There are two distinct documentation trees contained within this directory:
 
-Official Manual (redacted)
+Official Manual
 ---------------
 
-[index](source/index.rst)
+* `Introduction <source/introduction.rst>`_
+* `Quick Start <source/quickstart.rst>`_
+* `Configuration Start <source/config.rst>`_
+* `Example Project <source/example.rst>`_
+* `Plugins <source/plugins.rst>`_
 
-The official manual is also rendered online on: http://apix.readthedocs.org/
+This manual is also rendered online on: http://apix.readthedocs.org/
 
-API Documentation (code extracted)
-----------------
+API Documentation
+-----------------
 
-This is extracted from the APIx source code and comments using `Javadoc <http://en.wikipedia.org/wiki/Javadoc>` and `PHPDoc <http://en.wikipedia.org/wiki/PHPDoc>` formats.
+This is extracted from the APIx source code and comments using `Javadoc <http://en.wikipedia.org/wiki/Javadoc>`_ and `PHPDoc <http://en.wikipedia.org/wiki/PHPDoc>`_ formats.
 
-[index](source/apix/index.rst)
+Viewable at: `index <source/apix/index.rst>`_
 
 Installation
 ------------
@@ -29,17 +32,15 @@ To install Sphinx and dependencies run ``pip install sphinxcontrib-phpdomain`` t
 Contributing
 ------------
 
-See [Contributing](CONTRIBUTING.md)
+See `Contributing <CONTRIBUTING.md>`_.
 
 License
 -------
-APIx is licensed under the New BSD license -- see the [LICENSE.txt](LICENSE.txt) for the full license details.
+APIx is licensed under the New BSD license -- see the `LICENSE.txt <LICENSE.txt>`_ for the full license details.
 
-<pre>
   _|_|    _|_|    _|     _|      _|
 _|    _| _|    _|         _|    _|
 _|    _| _|    _| _|        _|_|
 _|_|_|_| _|_|_|   _| _|_|   _|_|
 _|    _| _|       _|      _|    _|
 _|    _| _|       _|     _|      _|
-</pre>
