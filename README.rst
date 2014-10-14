@@ -37,10 +37,3 @@ See `Contributing <CONTRIBUTING.md>`_.
 License
 -------
 APIx is licensed under the New BSD license -- see the `LICENSE.txt <LICENSE.txt>`_ for the full license details.
-
-  _|_|    _|_|    _|     _|      _|
-_|    _| _|    _|         _|    _|
-_|    _| _|    _| _|        _|_|
-_|_|_|_| _|_|_|   _| _|_|   _|_|
-_|    _| _|       _|      _|    _|
-_|    _| _|       _|     _|      _|
