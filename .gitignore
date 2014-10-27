@@ -3,5 +3,5 @@
 *~
 *.log
 .svn
-/build/
+_build/
 TODO
