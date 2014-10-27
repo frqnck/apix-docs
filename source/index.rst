@@ -3,20 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-APIx documentation!
-================================
-
-Contents:
+APIx Official Manual
+====================
 
 .. toctree::
    :maxdepth: 2
-   
+
    introduction
    quickstart
    config
    example
-   plugins
-   
+   plugins/index
 
 
 
@@ -25,4 +22,3 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`search`
-

@@ -1,5 +1,5 @@
-Plugins
-=======
+Make your own
+=============
 
 APIx comes prepackaged with several plugins, but there is nothing stopping you from
 extending this functionality and building your own.  There are two available builtin
@@ -170,15 +170,3 @@ An example entity that makes use of the above plugin might look like this:
 	}
     
     }
-
-
-
-
-
-
-
-
-
-
-
-

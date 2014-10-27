@@ -223,7 +223,7 @@ In this example, we have both a *session* service and an *auth* service.  The *a
 plugins
 -------
 
-Please see the :doc:`Plugin documentation <plugins>` for more information on available event hooks and interface for Plugins.
+Please see the :doc:`Plugin documentation <plugins/diy>` for more information on available event hooks and interface for Plugins.
 
 Plugins is an associative array where each plugin is definied using the plugins class name as the key, and an array defining options for that plugin as the value.  The options array is passed into the constructor for the specified plugin class.  For example:
 
